@@ -1,0 +1,8 @@
+crds/
+test/
+
+*.pem
+*.key
+*.csr
+.DS_Store
+.vscode
